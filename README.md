@@ -1,4 +1,13 @@
-# Mob Programming - #1
+# Scaffold - TypeScript version
+
+## Set up your dev box
+
+Make sure you have TypeScript installed:
+
+```bash
+$ tsc --version
+Version 5.3.2
+```
 
 ## Set up your dev box
 
@@ -12,9 +21,14 @@ Version 5.3.2
 - Clone this repo:
 
 ```bash
-git clone git@github.com/ticinoxp/mob-programming-1
+git clone git@github.com/ticinoxp/scaffold-ts
 ```
 
+and setup npm:
+
+```bash
+npm install
+```
 
 ## Run the tests:
 Run:
